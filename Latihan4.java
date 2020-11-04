@@ -1,5 +1,9 @@
 /**
  * Latihan4
+ * Nama     : Muhammad Fauzan Fadhlulbarr
+ * Kelas    : PBO10K
+ * NIM      : 10119176
+ * Program  : Kambing
  */
 public class Latihan4 {
     public void tambahKambing() {
